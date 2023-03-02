@@ -1,0 +1,12 @@
+ 1 cenoura 6 0
+ 2 tomate 3.5 0
+ 3 cebola 4 0
+ 4 alface 2.6 0
+ 5 mamao 4.2 0
+ 6 laranja 5 0
+ 7 uva 3.3 0
+ 8 manga 6 0
+ 9 beterraba 2 0
+ 10 gergelim 1 0
+ 11 torrada 5 0
+ 12 amendoa 12 0
